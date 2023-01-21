@@ -1,3 +1,3 @@
 # Zuul-Eureka-Integration
 
-<img src="image.png" alt="image"></img>
+<img src="https://github.com/Ayushkhodankar/Zuul-Eureka-Integration/blob/main/image.png" alt="zuul-eureka"></img>
